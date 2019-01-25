@@ -9,7 +9,7 @@ description: topic, notes, for each class period
 
 | week    | topic |
 |:---------------------------|------------------------:|
-| 1/25    | [github](notes0125.html#github), [shiny](notes0125.html;#rshiny) |
+| 1/25    | [github](notes0125.html#github), [shiny](notes0125.html#rshiny) |
 | 2/1     |   |
 |---------|---|
 |         |   |
