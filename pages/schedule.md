@@ -19,6 +19,15 @@ Will get updated each week, refresh your browser!
 
 <p></p>
 
+#### [Friday 02/01](notes0201.html)
+
+- Talk about jupyter notebook
+- Basic knowledge of Python
+- Numpy practice 
+- Ridge regression
+
+<p></p>
+
 #### [Friday 1/25](notes0125.html)
 
 - Talk about yourself
