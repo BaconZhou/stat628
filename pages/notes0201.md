@@ -127,3 +127,7 @@ $$\hat{\beta}_{ridge} = argmin_{\beta} ||Y - X\beta||^2 + \lambda ||\beta||^2$$
 3. Consider what is the relationship between $$\beta_{lm}$$ and $$\beta_{ridge}$$
 4. What if $$X'X$$ is an orthogonal matrix?
 5. What is the equivalent Bayesian formulation?
+
+[Solution Python notebook](../assets/notebooks/dis2_solution.ipynb)
+
+

@@ -16,6 +16,12 @@ Will get updated each week, refresh your browser!
 
 
 ---
+<p></p>
+#### [Friday 02/08](notes0208.html)
+
+- Talk about SQLite3
+- Sqlite3 module in Python
+- Sqlite3 practice
 
 <p></p>
 
