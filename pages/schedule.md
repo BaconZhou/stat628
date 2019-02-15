@@ -16,7 +16,17 @@ Will get updated each week, refresh your browser!
 
 
 ---
+
 <p></p>
+
+#### [Friday 02/15](notes0215.html)
+
+- Talk about SQL practice
+- `string`, `dict`, `file` in python
+- Very basic `JSON` loading 
+
+<p></p>
+
 #### [Friday 02/08](notes0208.html)
 
 - Talk about SQLite3
