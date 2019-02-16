@@ -103,7 +103,7 @@ Let's first try [Karl Broman](https://kbroman.org)'s [tutorial](https://kbroman.
         Hi username! You've successfully authenticated, but Github does
         not provide shell access.
 
-**Recommended Practice**: [Github laboratory](https://github.com/kbroman/Tools4RR/edit/master/05_Git_Lab/git_lab.md)
+**Recommended Practice**: [Github laboratory](https://github.com/kbroman/Tools4RR/blob/master/05_Git_Lab/git_lab.md)
 
 RShiny
 ----------------
