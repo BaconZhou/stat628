@@ -13,6 +13,7 @@ description: topic, notes, for each class period
 | 02/01                        | [jupyter](notes0201.html#jupyter-notebook), [practice](notes0201.html#practice-questions)                              |
 | 02/08                        | [SQL](notes0208.html)                                                                                                  |
 | 02/15                        | [string](notes0215.html#string), [dict](notes0215.html#dict), [file](notes0215.html#file), [JSON](notes0215.html#json) |
-|------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| 03/01                        | [split](notes0301.html#split), [gradient descent](notes0301.html#gradient-descent), [sgd](notes0301.html#sgd)          |
+|------------------------------+------------------------------------------------------------------------------------------------------------------------|
 |                              |                                                                                                                        |
 {: rules="groups"}

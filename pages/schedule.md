@@ -16,6 +16,12 @@ Will get updated each week, refresh your browser!
 
 
 ---
+<p></p>
+
+#### [Friday 03/01](notes0301.html)
+
+- Talk about `split` function in shell
+- Gradient descent and stochastic gradient descent
 
 <p></p>
 
