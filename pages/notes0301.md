@@ -23,7 +23,7 @@ It will split review_train.json into small pieces, make your life much easier.
 ### Gradient Descent
 ----
 
-- [jupyter notebook]()
+- [jupyter notebook](../assets/python/SGD-discussion.ipynb)
 
 [Wiki: gradient descent](https://en.wikipedia.org/wiki/Gradient_descent)
 
