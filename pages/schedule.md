@@ -16,6 +16,15 @@ Will get updated each week, refresh your browser!
 
 
 ---
+
+<p></p>
+
+#### [Friday 03/08](notes0308.html)
+
+- Give module 1 feedback
+- Talk about webcrawling
+- Talk some interview questions
+
 <p></p>
 
 #### [Friday 03/01](notes0301.html)
