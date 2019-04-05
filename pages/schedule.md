@@ -16,6 +16,11 @@ Will get updated each week, refresh your browser!
 
 
 ---
+<p></p>
+
+#### [Friday 04/05](notes0405.html)
+
+- Mock interview questions example
 
 <p></p>
 
